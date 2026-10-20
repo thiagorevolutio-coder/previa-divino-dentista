@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Prévia comercial. Remover o bloqueio e gerar sitemap após definir a URL pública final.
